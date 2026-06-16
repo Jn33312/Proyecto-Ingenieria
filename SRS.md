@@ -7,13 +7,14 @@
 - Optimización del tiempo
 - Fácil de usar
 
-### Phatnos
+### Pathos
 - Mala organización de datos
 - Falta de seguridad
 
 ### Logos
 - Registrarse
-- Buen ingreso de información
+- Visualización de datos
+- Actualización de datos
 
 ---
 
@@ -24,7 +25,7 @@
 - Fácil de usar
 - Soporte
 
-### Phatnos
+### Pathos
 - Mala organización de datos
 - Renovación del sistema
 - Optimización del tiempo
@@ -41,8 +42,9 @@
 ### Etnos
 - Sistema bien organizado
 
-### Phatnos
+### Pathos
 - Solvencia económica
 
 ### Logos
+- Registrarse
 - Seguimiento de actualizaciones
