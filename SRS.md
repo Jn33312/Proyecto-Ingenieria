@@ -17,7 +17,7 @@
 
 ---
 
-## 👮 Vigilantes
+## Vigilantes
 
 ### Etnos
 - [x] Optimización de tiempo.
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Admin
+## Admin
 
 ### Etnos
 - [x] Sistema bien organizado.
