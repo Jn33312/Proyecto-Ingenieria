@@ -1,7 +1,5 @@
 # Análisis de Perfiles y Requerimientos (UX Aristotélica)
 
-Este análisis define las reglas de negocio, el flujo de datos y la interacción física de cada actor con la aplicación móvil y la base de datos central.
-
 ### 1. Perfil: Conductores
 Estudiantes o docentes de la BUAP que ingresan con motocicleta.
 
