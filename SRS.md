@@ -1,48 +1,48 @@
 # Análisis de Perfiles y Requerimientos
 
-##Conductores
+## Conductores
 
 ### Etnos
-- [x] Privacidad de datos.
-- [x] Optimización del tiempo.
-- [x] Fácil de usar.
+- Privacidad de datos
+- Optimización del tiempo
+- Fácil de usar
 
 ### Phatnos
-- [ ] Mala organización de datos.
-- [ ] Falta de seguridad.
+- Mala organización de datos
+- Falta de seguridad
 
 ### Logos
-- [x] Registrarse.
-- [x] Buen ingreso de información.
+- Registrarse
+- Buen ingreso de información
 
 ---
 
 ## Vigilantes
 
 ### Etnos
-- [x] Optimización de tiempo.
-- [x] Fácil de usar.
-- [x] Soporte.
+- Optimización de tiempo
+- Fácil de usar
+- Soporte
 
 ### Phatnos
-- [ ] Mala organización de datos.
-- [ ] Renovación del sistema.
-- [ ] Optimización del tiempo.
+- Mala organización de datos
+- Renovación del sistema
+- Optimización del tiempo
 
 ### Logos
-- [x] Registrarse.
-- [x] Captura de placa / Matrícula.
-- [x] Validación de información.
+- Registrarse
+- Captura de placa / Matrícula
+- Validación de información
 
 ---
 
 ## Admin
 
 ### Etnos
-- [x] Sistema bien organizado.
+- Sistema bien organizado
 
 ### Phatnos
-- [ ] Solvencia económica.
+- Solvencia económica
 
 ### Logos
-- [x] Seguimiento de actualizaciones.
+- Seguimiento de actualizaciones
