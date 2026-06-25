@@ -1,0 +1,26 @@
+RegistroVehicularBUAP/
+│
+├── app/src/main/java/com/buap/registrovehicular/
+│   │
+│   ├── ui/                     # MÓDULO DE MANUEL (Interfaz y Navegación)
+│   │   ├── MainActivity.java   # Pantalla principal (Inicio de sesión)
+│   │   ├── ScannerActivity.java# Pantalla de la cámara y estado (Verde/Rojo)
+│   │   └── HistoryActivity.java# Pantalla para ver la tabla de registros del día
+│   │
+│   ├── ocr/                    # MÓDULO DE JOVAN (Cámara y ML Kit)
+│   │   └── TextAnalyzer.java   # Captura el frame, usa ML Kit y extrae el String
+│   │
+│   ├── data/                   # MÓDULO DE ERIKA AUDREY (Base de Datos Local)
+│   │   ├── localdb/            # Configuración de Room/ObjectBox/Paper
+│   │   └── model/              # Entidades (Ej. AccesoLog.java con ID, Placa, Hora)
+│   │
+│   └── utils/                  # MÓDULO DE YONATHAN (Lógica y Exportación)
+│       ├── RegexValidator.java # Valida que el texto sea realmente una placa
+│       └── CsvExporter.java    # Convierte la base de datos a un archivo .csv
+│
+├── app/src/main/res/           # Recursos visuales (Manuel)
+│   ├── layout/                 # Diseños XML de las pantallas
+│   ├── drawable/               # Íconos y botones
+│   └── values/                 # Colores y textos
+│
+└── build.gradle (Module: app)  # Aquí irán las dependencias de Google ML Kit y la BD
