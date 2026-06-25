@@ -29,5 +29,3 @@ RegistroVehicularBUAP/
 │   ├── layout/                 # Diseños XML de las interfaces
 │   ├── drawable/               # Íconos, botones y recursos gráficos
 │   └── values/                 # Paleta de colores institucionales y textos
-│
-└── build.gradle (Module: app)  # Dependencias y configuración del entorno
