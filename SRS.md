@@ -35,7 +35,7 @@ Personal encargado de operar la aplicación móvil desarrollada (ej. en Java) en
 ---
 
 ### 3. Perfil: Admin
-Usuarios con privilegios administrativos (Dirección de Seguridad, Equipo de Desarrollo: Manuel, Jovan, Erika Audrey, Yonathan).
+Usuarios con privilegios administrativos (Dirección de Seguridad, Equipo de Desarrollo: Geovanni, Jovan, Edgar, Jared).
 
 * **Ethos** 
   * **Sistema bien organizado:** Arquitectura basada en una base de datos normalizada que separa claramente las tablas de Usuarios, Vehículos y Accesos, permitiendo escalabilidad a futuro (ej. agregar autos además de motos).
