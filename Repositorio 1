@@ -1,0 +1,24 @@
+RegistroVehicularApp/
+│
+├── app/src/main/java/com/buap/registrovehicular/
+│   ├── ui/                     # Interfaces de usuario (Actividades y Fragmentos)
+│   │   ├── login/              # Pantalla de inicio de sesión del vigilante
+│   │   ├── scanner/            # Vista de la cámara y recuadro de estado (Verde/Rojo)
+│   │   └── override/           # Pantalla para ingreso manual de placas (Input de respaldo)
+│   │
+│   ├── ocr/                    # Lógica de la API de Google
+│   │   └── MLKitAnalyzer.java  # Clase que recibe el frame de la cámara y extrae el String
+│   │
+│   ├── network/                # Conexión con el servidor
+│   │   ├── ApiClient.java      # Configuración de Retrofit
+│   │   └── ApiService.java     # Endpoints (GET placa, POST acceso)
+│   │
+│   ├── data/                   # Manejo de datos y almacenamiento offline
+│   │   ├── model/              # Clases modelo (Vehiculo, Acceso, Usuario)
+│   │   └── local/              # Base de datos Room (SQLite) para modo offline
+│   │
+│   └── utils/                  # Herramientas de soporte
+│       ├── RegexValidator.java # Expresiones regulares para validar placas
+│       └── SessionManager.java # Manejo del Token del vigilante en turno
+│
+└── build.gradle                # Dependencias (ML Kit, Retrofit, Room)
