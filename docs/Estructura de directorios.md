@@ -25,11 +25,7 @@ RegistroVehicularBUAP/
 │   │   ├── localdb/            # Configuración e inicialización de la base de datos Realm
 │   │   └── model/              # Modelos Orientados a Objetos (Ej. AccesoLog, Vehiculo, Usuario)
 │   │
-│   └── utils/                  #  Módulo de Lógica y Exportación
-│       ├── RegexValidator.java # Limpieza y validación estricta del formato de placas
-│       └── CsvExporter.java    # Exportación de la base de datos a un archivo .csv (Excel)
-│
-├── app/src/main/res/           # Recursos Visuales
+│   └── app/src/main/res/           # Recursos Visuales
 │   ├── layout/                 # Diseños XML de las interfaces
 │   ├── drawable/               # Íconos, botones y recursos gráficos
 │   └── values/                 # Paleta de colores institucionales y textos
