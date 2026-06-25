@@ -2,7 +2,7 @@
 
 Aplicación móvil nativa en Android (Java) para el control de acceso vehicular mediante escaneo de placas con OCR.
 
-## 📂 Estructura de Directorios y Asignación de Módulos
+##  Estructura de Directorios y Asignación de Módulos
 
 Esta es la arquitectura del proyecto para el desarrollo del MVP. Cada miembro del equipo debe trabajar dentro de su paquete asignado para evitar conflictos.
 
